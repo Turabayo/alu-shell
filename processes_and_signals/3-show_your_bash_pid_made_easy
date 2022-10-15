@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
 
-# script that displays lines containing the bash word using the previous command
+# a script that displays the PID, along with the process name, of processes whose name contain the word bash
 
-ps -auxf | grep bash
+pgrep -l bash
