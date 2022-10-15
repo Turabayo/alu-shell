@@ -1,3 +1,5 @@
 #!/usr/bin/env bash
+
 # Display in a user-oriented format and show process hierarchy
+
 ps -auxf
