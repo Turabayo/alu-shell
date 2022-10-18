@@ -1,2 +1,1 @@
-My basic readme
-#!/bin/bash
+readme
